@@ -61,7 +61,8 @@ nav ul{
 
 nav ul>li{
     display: inline;
-    margin-right: 55px;
+    margin-right: 80px;
+    padding-left: 15px;
     
 }
 
@@ -116,7 +117,7 @@ main p{
 aside{
     background-color: rgba(158, 243, 158, 0.644);
     padding: 10px;
-    border-radius: 0px 0px 10px 10px;
+    border-radius: 10px;
     
 }
 
@@ -127,6 +128,7 @@ aside h3{
     margin: -10px -10px -22px -10px;
     color: white;
     font-size: 1.3em;
+    border-radius: 10px 10px 0px 0px;
 }
 
 aside ul{
